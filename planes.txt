@@ -12,9 +12,9 @@ Cambiado
 Año     Materias
 2do     Algo2   Orga1
         Logica  Orga2
-3ro     Algo3   SO
-        Redes   Ing1
-4to     BD      Tleng
-        Metnum  PLP
+3ro     Metnum  SO
+        Algo3   PLP
+4to     Redes   Ing1
+        BD      Tleng       
 5to     Ing2    Optativas
         Tesis   Optativas
