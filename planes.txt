@@ -1,5 +1,7 @@
 Sugerido
 Año     Materias
+1ro	Algebra Analisis
+        Algo1	Proba
 2do     Algo2   Orga1
         Metnum  Orga2
 3ro     Algo3   SO
@@ -10,6 +12,8 @@ Año     Materias
 
 Cambiado
 Año     Materias
+1ro	Algebra Analisis
+        Algo1	Proba
 2do     Algo2   Orga1
         Logica  Orga2
 3ro     Metnum  SO
