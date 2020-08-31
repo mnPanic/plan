@@ -17,8 +17,8 @@ Año     Materias
 2do     Algo2   Orga1
         Logica  Orga2
 3ro     Metnum  SO
-        Algo3   PLP
-4to     Redes   Ing1
-        BD      Tleng       
-5to     Ing2    Optativas
+        Tleng   PLP
+4to     Algo3   Optativas
+        Redes   Ing1
+5to     BD      Ing2
         Tesis   Optativas
