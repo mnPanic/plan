@@ -1,4 +1,6 @@
 Sugerido
+========
+
 Año     Materias
 1ro	Algebra Analisis
         Algo1	Proba
@@ -10,7 +12,24 @@ Año     Materias
         Ing2    Optativas
 5to     Tesis   Optativas
 
-Cambiado
+Por cupos
+=========
+
+Año     Materias
+1ro	Algebra Analisis
+        Algo1	Proba
+2do     Algo2   Orga1
+        Logica  Orga2
+3ro     Metnum  SO
+        Algo3   PLP
+4to     Redes   Tleng
+        Ing1    Optativas       
+5to     Ing2    BD
+        Tesis   Optativas
+
+Cambiado original
+=================
+
 Año     Materias
 1ro	Algebra Analisis
         Algo1	Proba
